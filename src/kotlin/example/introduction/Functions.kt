@@ -1,4 +1,4 @@
-package example
+package example.introduction
 
 fun printMessage(message: String): Unit {
     println(message)

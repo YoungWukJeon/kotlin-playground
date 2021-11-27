@@ -1,4 +1,4 @@
-package example
+package example.introduction
 
 fun main() {
     fun printAll(vararg messages: String) {

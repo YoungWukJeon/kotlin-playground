@@ -1,4 +1,4 @@
-package example
+package example.introduction
 
 fun describeString(maybeString: String?): String {
     if (maybeString != null && maybeString.length > 0) {

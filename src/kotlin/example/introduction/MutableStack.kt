@@ -1,4 +1,4 @@
-package example
+package example.introduction
 
 class MutableStack<E>(vararg items: E) {
     private val elements = items.toMutableList()

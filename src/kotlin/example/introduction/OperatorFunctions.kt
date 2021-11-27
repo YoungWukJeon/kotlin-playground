@@ -1,4 +1,4 @@
-package example
+package example.introduction
 
 fun main() {
     operator fun Int.times(str: String) = str.repeat(this)

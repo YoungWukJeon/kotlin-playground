@@ -1,4 +1,4 @@
-package example
+package example.introduction
 
 fun main() {
     var neverNull: String = "This can't be null"
